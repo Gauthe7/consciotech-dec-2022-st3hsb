@@ -14,7 +14,7 @@ defineProps({
   <p>
     Check out
     <a href="https://vuejs.org/guide/essentials/reactivity-fundamentals.html" target="_blank"
-      >Documentation</a
+      >Dotion</a
     >
     for help.
   </p>
